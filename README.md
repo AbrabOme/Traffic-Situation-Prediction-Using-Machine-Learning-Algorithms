@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Traffic Situation Prediction Using Machine Learning</title>
-</head>
-<body style="font-family: Arial, sans-serif; line-height: 1.6; max-width: 900px; margin: auto;">
-
-    <h1>Traffic Situation Prediction Using Machine Learning</h1>
+  <h1>Traffic Situation Prediction Using Machine Learning</h1>
 
     <p>
         This project implements and compares three machine learning algorithms — 
@@ -94,5 +85,3 @@
         <li><strong>Md. Fardin Hassan Tamim</strong></li>
     </ul>
 
-</body>
-</html>
