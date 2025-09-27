@@ -45,3 +45,15 @@ Integration of additional features (weather, events, road conditions)
 Experimenting with deep learning models (e.g., LSTMs)
 
 Building a real-time traffic prediction dashboard
+
+👥 Contributions
+
+This project was developed collaboratively by:
+
+Tazower Rahman Sowad
+
+Kazi Abrab Hossain
+
+Md. Abrar Rahman Shafin
+
+Md. Fardin Hassan Tamim
